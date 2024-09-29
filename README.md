@@ -1,5 +1,5 @@
 # ControleContaBancoJava
-<h1><b></b>Desafio básico de controle de conta de banco da <br>Digital Innovation one<b></b><h1>
+<h1><b></b>Desafio básico de controle de conta de banco da <br>Digital Innovation One<b></b><h1>
 Neste dasáfio teve como objetivo desenvolver um controle bancário de contas corrente e poupança.
 Pré-requisito do desáfio
   Cadastro de clientes. 
