@@ -3,7 +3,7 @@
 Neste dasáfio teve como objetivo desenvolver um controle bancário de contas corrente e poupança.</b></h1><br>
 <b>Pré-requisito do desáfio.</b><br>
   Cadastro de clientes.<br>
-  Depósito na conta corrente e poupança.
+  Depósito na conta corrente e poupança.<br>
   Transferências bancária entre contas corrente e poupança.<br>
 Pré-requisito alcançado, mas o diferencial deste trabalho foi desenvolver um banco de dados independente.
 onde ao ser executado na primeira vez é gerado cinco arquivos onde serão guardados os dados dos clientes.
