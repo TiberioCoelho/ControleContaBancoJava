@@ -4,8 +4,8 @@ Neste dasáfio teve como objetivo desenvolver um controle bancário de contas co
 <b>Pré-requisito do desáfio.</b><br>
   Cadastro de clientes.<br>
   Depósito na conta corrente e poupança.<br>
-  Transferências bancária entre contas corrente e poupança.<br>
-Pré-requisito alcançado, mas o diferencial deste trabalho foi desenvolver um banco de dados independente.
+  Transferências bancária entre contas corrente e poupança.<br><br>
+Pré-requisito alcançado, mas o diferêncial deste trabalho foi desenvolver um banco de dados independente.
 onde ao ser executado na primeira vez é gerado cinco arquivos onde serão guardados os dados dos clientes.
 Um exemplo simples mais real de banco de dados, capacidade é o limite do HD.
 Principais pacotes forão usados io,nio, util. 
