@@ -9,6 +9,10 @@ Pré-requisito alcançado, mas o diferêncial deste trabalho foi desenvolver um 
 onde ao ser executado na primeira vez é gerado cinco arquivos onde serão guardados os dados dos clientes.
 Um exemplo simples mais real de banco de dados, capacidade é o limite do HD.
 Principais pacotes forão usados io,nio, util. 
+Coloquei um Jar é só baixar e descompactar para ver o código.
+Atenciosamente.
+Tibério Coelho.
+
 
   
 
