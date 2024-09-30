@@ -9,7 +9,7 @@ Neste dasáfio teve como objetivo desenvolver um controle bancário de contas co
 onde ao ser executado na primeira vez é gerado cinco arquivos onde serão guardados os dados dos clientes.
 Um exemplo simples mais real de banco de dados, capacidade é o limite do HD.
 Principais pacotes forão usados io,nio, util. 
-Coloquei um Jar é só baixar e descompactar para ver o código.
+Coloquei um Jar é só baixar e rodar com >java -jar BancoDioJava.jar.
 Atenciosamente.
 Tibério Coelho.
 
